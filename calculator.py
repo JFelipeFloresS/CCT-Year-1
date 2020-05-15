@@ -1,6 +1,4 @@
 from tkinter import *
-from pynput.keyboard import Key, Listener
-import keyboard
 
 root = Tk()
 root.config({"background": "grey"})
